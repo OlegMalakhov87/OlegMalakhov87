@@ -88,7 +88,7 @@
 
 ### Tools & DevOps
 
-`Git` · `Docker` · `Ubuntu` · `FFmpeg` · `VS Code`
+`Git` · `Docker` · `Ubuntu` · `FFmpeg` · `VS Code` · `Cursor`
 
 ---
 
