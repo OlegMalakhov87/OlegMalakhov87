@@ -8,3 +8,4 @@ Fullstack-разработчик. Открыт к предложениям о р
 - [Email](mailto:malahov.1987@mail.ru)
 - [ВКонтакте](https://vk.ru/olegmalakhov87)
 - [WhatsApp](https://wa.me/79156548842)
+- [Instagram](https://instagram.com/olegmalakhov87)
